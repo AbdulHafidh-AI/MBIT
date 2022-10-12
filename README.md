@@ -10,3 +10,4 @@
 | <b>Haris Daffa</b>  | 2008107010029      |   Backend Developer |
 | <b>Yoan Rifqi Candra  </b>      | 2008107010059      |  Quality Assurance |
 
+
