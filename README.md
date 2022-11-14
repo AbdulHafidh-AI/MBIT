@@ -9,7 +9,7 @@ In Informatics we have 4 talents such as:
 <li>Data Mining </li>
 <li> Software Engineer </li>
 <li> Network Engineer </li>
-<li> Geographical Inforamtion System </li>
+<li> Geographical Inforamation System </li>
 </ul>
 
 

@@ -8,7 +8,9 @@ st.write("""
     # Sistem pakar dalam menentukan minat bakat mahasiswa informatika
 """)
 
-st.image('./images.png')
+st.image('./assets/images.png')
+
+
 
 
  
