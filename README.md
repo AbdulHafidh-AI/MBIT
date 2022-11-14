@@ -3,7 +3,7 @@
 
 <p>This is An Artificial Inteligence project to make the expert system regarding Informatics students talent </p>
 
-In Informatics we have 4 talens such as:
+In Informatics we have 4 talents such as:
 
 <ul>
 <li>Data Mining </li>
