@@ -12,7 +12,9 @@ In Informatics we have 4 talents such as:
 <li> Geographical Inforamation System </li>
 </ul>
 
+# RUN THIS APPLICATION START FROM 
 
+<pre><code>streamlit run main.pygit</code></pre>
 
 ### Team Member 🥇
   
