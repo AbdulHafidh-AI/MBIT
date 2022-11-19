@@ -14,7 +14,7 @@ In Informatics we have 4 talents such as:
 
 # RUN THIS APPLICATION START FROM 
 
-<pre><code>streamlit run main.pygit</code></pre>
+<pre><code>streamlit run main.py</code></pre>
 
 ### Team Member 🥇
   
