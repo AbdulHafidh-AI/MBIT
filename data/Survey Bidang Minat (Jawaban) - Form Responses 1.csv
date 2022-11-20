@@ -1,799 +1,153 @@
-Timestamp,Apakah kamu suka melihat rumus matematika?,Apakah kamu suka mendesain?,Apakah kamu menyukai hal-hal yang berkaitan dengan Internet of Things (IoT)?,Apakah kamu menyukai hal-hal yang berkaitan dengan pemetaan?,Apakah kamu menyukai hal-hal yang berkaitan dengan perkembangan teknologi?,Apakah kamu menyukai hal-hal yang berkaitan dengan Artificial Inteligence (AI)?,Apakah kamu menyukai hal-hal yang berkaitan dengan survey lapangan?,Apakah kamu menyukai hal-hal yang berkaitan dengan cloud computing/komputasi awan?,Apakah kamu menyukai hal-hal yang berkaitan dengan interview?,Pilih bidang minat yang ingin kamu ambil selama perkuliahan di jurusan informatika
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:21:59,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:22:39,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:24:45,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:28:17,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining
-17/11/2022 13:29:28,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-17/11/2022 13:30:32,Tidak Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:30,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:31:42,Tidak Setuju,Setuju,Tidak setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:31:57,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:33:29,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Rekayasa Perangkat Lunak
-17/11/2022 13:34:13,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:35:18,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Jaringan
-17/11/2022 13:39:14,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:50:22,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:51:22,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,Geografis Information System
-17/11/2022 13:52:09,Setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Data Mining
-17/11/2022 13:52:50,Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Data Mining
-18/11/2022 20:26:32,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan
-19/11/2022 15:12:54,Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Setuju,Tidak Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak
+Timestamp,Apakah kamu tertarik dengan matematika?,Apakah kamu juga tertarik dengan statistika?,Apakah kamu suka melihat data-data yang sangat banyak?,Apakah kamu suka dalam hal menerawang sesuatu?,Apakah kamu suka merancang atau mendesain sesuatu?,Apakah kamu suka membikin aplikasi mobile?,Apakah kamu tertarik dalam hal membikin game?,Apakah kamu tertarik dalam hal bikin web?,Apakah kamu tertarik dalam hal hacking seperti yang ada dalam film?,Pilih bidang minat yang ingin kamu ambil selama perkuliahan di jurusan informatika,Apakah kamu tertarik dalam hal membobol situs web seperti bjorka?,Apakah kamu suka dalam hal pemetaan?,Apakah kamu suka membajak komputer orang?,Apakah kamu pernah membayangkan diri kamu itu sebagai seorang cyber security?,Apakah kamu suka dalam hal pemetaan wilayah dengan teknologi?,Apakah kamu suka dalam mengolah suatu citra/gambar?,Apakah kamu suka menjelajah suatu wilayah dengan tujuan untuk meneliti suatu wilayah?
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
+19/11/2022 21:16:39,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:18:14,Setuju,Tidak setuju,Tidak setuju,Setuju,Tidak Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:19:30,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Data Mining,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 21:23:23,Setuju,Setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Jaringan,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Setuju
+19/11/2022 21:28:54,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 22:45:09,Tidak Setuju,Tidak setuju,Tidak setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Setuju,Data Mining,Setuju,Tidak Setuju,Setuju,Setuju,,Tidak Setuju,Tidak Setuju
+19/11/2022 23:44:06,Tidak Setuju,Tidak setuju,Tidak setuju,Tidak Setuju,Setuju,Setuju,Setuju,Setuju,Tidak Setuju,Rekayasa Perangkat Lunak,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Tidak Setuju
+19/11/2022 23:44:54,Setuju,Tidak setuju,Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Tidak Setuju,Setuju,Tidak Setuju,Geografis Information System,Tidak Setuju,Setuju,Tidak Setuju,Tidak Setuju,,Setuju,Setuju
