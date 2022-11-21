@@ -1,2 +1,4 @@
 #ignore folder Pipfile
 /Pipfile
+/env
+/MBIT
