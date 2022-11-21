@@ -2,11 +2,45 @@ import streamlit as st
 import pandas as pd
 import pickle
 
+st.image('./assets/images.png')
+
 st.write("""
     # Sistem pakar dalam menentukan minat bakat mahasiswa informatika
 """)
 
-st.image('./assets/images.png')
+
+
+st.write("""
+
+    ## The Creator
+
+    """)
+
+### Menampilkan creator yang membuat web ini
+col1, col2, col3 = st.columns(3)
+
+with col1:
+   st.write("""
+   ### Abdul Hafidh
+   """)
+   st.image('./assets/Abdul_H.jpeg')
+
+with col2:
+    st.write("""
+   ### Haris Daffa
+   """)
+    st.image('./assets/Abdul_H.jpeg')
+
+with col3:
+   st.write("""
+   ### Haris Daffa
+   """)
+   st.image("https://static.streamlit.io/examples/owl.jpg")
+
+### Menampilkan foto creator
+
+
+
 
 # use model to predict new data (new survey) from user input (web) and return the result (class) 
 
