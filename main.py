@@ -106,7 +106,7 @@ new_data = {
 new_df = pd.DataFrame(new_data, index=[0])
 
 # load model
-model = pickle.load(open('models/DT_model.pkl', 'rb'))
+model = pickle.load(open('models/RF_model.pkl', 'rb'))
 
 # predict new data with button but if all value is 0.0 then show error
 if reveal:
