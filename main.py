@@ -108,10 +108,16 @@ new_df = pd.DataFrame(new_data, index=[0])
 # load model
 model = pickle.load(open('models/DT_model.pkl', 'rb'))
 
-# predict new data with button
+# predict new data with button but if all value is 0.0 then show error
 if reveal:
-    prediction = model.predict(new_df)
-    st.write('Kamu cocok di bidang: ', prediction[0])
+    # check if soal1 until soal15 is 0.0
+    if new_df['soal1'].values[0] == 1.0 and new_df['soal2'].values[0] == 1.0 and new_df['soal3'].values[0] == 1.0 and new_df['soal4'].values[0] == 1.0 and new_df['soal5'].values[0] == 1.0 and new_df['soal6'].values[0] == 1.0 and new_df['soal7'].values[0] == 1.0 and new_df['soal8'].values[0] == 1.0 and new_df['soal9'].values[0] == 1.0 and new_df['soal10'].values[0] == 1.0 and new_df['soal11'].values[0] == 1.0 and new_df['soal12'].values[0] == 1.0 and new_df['soal13'].values[0] == 1.0 and new_df['soal14'].values[0] == 1.0 and new_df['soal15'].values[0] == 1.0:
+        st.write('Mohon pilih jawaban terlebih dahulu')
+    else:
+       prediction = model.predict(new_df)
+       st.write('Kamu cocok di bidang: ', prediction[0])
+
+
 
     
 
