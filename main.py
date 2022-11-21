@@ -79,6 +79,7 @@ soal12 = st.selectbox('Apakah kamu suka membajak komputer orang?', ('Tidak Setuj
 soal13 = st.selectbox('Apakah kamu pernah membayangkan diri kamu itu sebagai seorang cyber security?', ('Tidak Setuju', 'Setuju'))
 soal14 = st.selectbox('Apakah kamu suka dalam mengolah suatu citra/gambar?', ('Tidak Setuju', 'Setuju'))
 soal15 = st.selectbox('Apakah kamu suka menjelajah suatu wilayah dengan tujuan untuk meneliti suatu wilayah ?', ('Tidak Setuju', 'Setuju'))
+reveal = st.button('Tampilkan Hasil')
 
 # create new data from user input and convert value to float
 new_data = {
@@ -107,17 +108,13 @@ new_df = pd.DataFrame(new_data, index=[0])
 # load model
 model = pickle.load(open('models/DT_model.pkl', 'rb'))
 
-# predict new data
-prediction = model.predict(new_df)
+# predict new data with button
+if reveal:
+    prediction = model.predict(new_df)
+    st.write('Kamu cocok di bidang: ', prediction[0])
 
-# show the result
-st.write("""
+    
 
-    ## Berikut ini bidang minat yang sesuai dengan anda
-
-""")
-
-st.write("Kamu cocok di bidang minat: ", prediction[0])
 
 
 
