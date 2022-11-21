@@ -27,15 +27,15 @@ with col1:
 
 with col2:
     st.write("""
-   ### Haris Daffa
+   ### Yoan Rifqi Candra
    """)
-    st.image('./assets/Abdul_H.jpeg')
+    st.image('./assets/Yoan.jpeg')
 
 with col3:
    st.write("""
    ### Haris Daffa
    """)
-   st.image("https://static.streamlit.io/examples/owl.jpg")
+   st.image("./assets/Haris.jpeg")
 
 ### Menampilkan foto creator
 
