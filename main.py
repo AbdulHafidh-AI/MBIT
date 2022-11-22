@@ -1,6 +1,12 @@
 import streamlit as st 
 import pandas as pd
+from PIL import Image
 import pickle
+
+im = Image.open('assets/images.png')
+
+st.set_page_config(page_title="MBIT",page_icon = im)
+
 
 st.image('./assets/images.png')
 
